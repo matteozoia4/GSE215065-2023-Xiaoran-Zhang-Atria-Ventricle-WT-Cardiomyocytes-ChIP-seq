@@ -371,7 +371,7 @@ track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
     gridDefault off
     color 3,192,60
 
-track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e61fd865cd538f52/display?to_ext=bigbed
 itemRgb on
 shortLabel Srf Atria Peaks
@@ -381,7 +381,7 @@ configurable on
 visibility dense
 color 3,192,60
 
-track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358e8e9da26f904985/display?to_ext=bigwig
     itemRgb on
     shortLabel Srf Atria Profile 
