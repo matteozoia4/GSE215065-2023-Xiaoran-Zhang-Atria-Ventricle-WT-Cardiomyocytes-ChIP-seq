@@ -1,0 +1,5 @@
+hub DataSets for GSE215065
+shortLabel GSE215065
+longLabel GSE215065 Xiaoran Zhang 2023 Atria Ventricle WT Cardiomyocytes ChIP-seq
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch

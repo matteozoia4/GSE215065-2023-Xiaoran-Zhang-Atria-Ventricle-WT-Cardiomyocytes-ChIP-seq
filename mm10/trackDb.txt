@@ -1,0 +1,496 @@
+track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213581bc867f8bfbb2ed/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 Atria Peaks
+longLabel Gata4 Atria GSM6620024
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d0604b6caa3ac7e6/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Gata4 Atria Profile
+    longLabel Gata4 Atria Profile GSM6620024
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357169c8a02913a250/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 Ventricle Peaks
+longLabel Gata4 Ventricle Peaks GSM6620026
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c58d3ffcfa02f1d5/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Gata4 Ventricle Profile
+    longLabel Gata4 Ventricle Profile GSM6620026
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d4edd480fe9c8839/display?to_ext=bigbed
+itemRgb on
+shortLabel Tbx5 Atria Peaks
+longLabel Tbx5 Atria Peaks GSM6620048 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356b8d4f17d7d5fd30/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tbx5 Atria Profile
+    longLabel Tbx5 Atria Profile GSM6620048 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351403c27aeaad6e6f/display?to_ext=bigbed
+itemRgb on
+shortLabel Tbx5 Ventricle Peaks
+longLabel Tbx5 Ventricle Peaks GSM6620050 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135450ef4d65b6cc51a/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tbx5 Ventricle Profile
+    longLabel Tbx5 Ventricle Profile GSM6620050
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+
+track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351420dfcc26f962b3/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2c Atria Peaks
+longLabel Mef2c Atria Peaks GSM6620032 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213522bef3c03edf916b/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2c Atria Profile
+    longLabel Mef2c Atria Profile GSM6620032
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cc1ab3130ac8b367/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2c Ventricle Peaks
+longLabel Mef2c Ventricle Peaks GSM6620032 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357c4b11f96c5b8272/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2c Ventricle Profile
+    longLabel Mef2c Ventricle Profile GSM6620032
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351c50286cebb44f67/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2a Atria Peaks
+longLabel Mef2a Atria Peaks GSM6620028 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355d0636684f1240b5/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2a Atria Profile
+    longLabel Mef2a Atria Profile GSM6620028
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b98907a1e653d95d/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2a Ventricle Peaks
+longLabel Mef2a Ventricle Peaks GSM6620030  
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135763ca098bf087ca4/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2a Ventricle Profile
+    longLabel Mef2a Ventricle Profile GSM6620030 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1e0b94bdbcd6676/display?to_ext=bigbed
+itemRgb on
+shortLabel Nkx2.5 Atria Peaks
+longLabel Nkx2.5 Atria Peaks GSM6620036
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dd9848ab6c5a3f52/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Nkx2.5 Atria Profile
+    longLabel Nkx2.5 Atria Profile GSM6620036
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac5cf16c317c9254/display?to_ext=bigbed
+itemRgb on
+shortLabel Nkx2.5 Ventricle Peaks
+longLabel Nkx2.5 Ventricle Peaks GSM6620038 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d7a6a0a0ef45e36f/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Nkx2.5 Ventricle Profile
+    longLabel Nkx2.5 Ventricle Profile GSM6620038
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a3a023a6b7a44a44/display?to_ext=bigbed
+itemRgb on
+shortLabel Tead1 Atria Peaks
+longLabel Tead1 Atria Peaks GSM6620052
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e92890236c39c87e/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tead1 Atria Profile
+    longLabel Tead1 Atria Profile GSM6620052
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352232db799d39cd00/display?to_ext=bigbed
+itemRgb on
+shortLabel Tead1 Ventricle Peaks 
+longLabel Tead1 Ventricle Peaks GSM6620054
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357fe762552e2821c0/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tead1 Ventricle Profile
+    longLabel Tead1 Ventricle Profile GSM6620054
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e61fd865cd538f52/display?to_ext=bigbed
+itemRgb on
+shortLabel Srf Atria Peaks
+longLabel Srf Atria Peaks GSM6620044
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358e8e9da26f904985/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Srf Atria Profile 
+    longLabel Srf Atria Profile GSM6620044
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dea350bbfa563349/display?to_ext=bigbed
+itemRgb on
+shortLabel Srf Ventricle Peaks
+longLabel Srf Ventricle Peaks GSM6620046
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f8840977be93dfa7/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Srf Ventricle Profile
+    longLabel Srf Ventricle Profile GSM6620046
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f31ced1ca7a149/display?to_ext=bigbed
+itemRgb on
+shortLabel P300 Atria Peaks
+longLabel P300 Atria Peaks GSM6620040 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213576ef111b403772ce/display?to_ext=bigwig
+    itemRgb on
+    shortLabel P300 Atria Profile
+    longLabel P300 Atria Profile GSM6620040 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213529ea23593b948883/display?to_ext=bigbed
+itemRgb on
+shortLabel P300 Ventricle Peaks
+longLabel P300 Ventricle Peaks GSM6620042 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359b409db5bbd98906/display?to_ext=bigwig
+    itemRgb on
+    shortLabel P300 Ventricle Profile
+    longLabel P300 Ventricle Profile GSM6620042
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
